@@ -28,3 +28,5 @@ class NegociacaoController {
     this._mensagemView.update('Negociação adicionada com sucesso!');
   }
 }
+
+// npm install @types/nomeDaLibOuFramework --save-dev
